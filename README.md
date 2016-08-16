@@ -1,1 +1,1 @@
-# backups
+Simple script for my home backups
